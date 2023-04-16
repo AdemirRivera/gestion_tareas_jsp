@@ -1,0 +1,116 @@
+[01-Jun-2021 15:51:28 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 15:51:32 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 15:51:32 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 15:51:35 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 15:51:42 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 15:51:42 Europe/Berlin] inicioModelo::validarLogin => Validacion Efectuada
+[01-Jun-2021 15:51:46 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 15:51:47 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 15:51:49 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 15:51:50 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 15:51:55 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 15:52:03 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 15:52:03 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:23:12 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:23:21 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:23:21 Europe/Berlin] inicioModelo::validarLogin => Validacion Efectuada
+[01-Jun-2021 16:23:26 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:23:26 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "tareaModelo" not found in C:\xampp\htdocs\sistema\core\controller.php:22
+Stack trace:
+#0 C:\xampp\htdocs\sistema\core\app.php(26): Controller->loadModel('tarea')
+#1 C:\xampp\htdocs\sistema\index.php(19): App->__construct()
+#2 {main}
+  thrown in C:\xampp\htdocs\sistema\core\controller.php on line 22
+[01-Jun-2021 16:24:13 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:24:14 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:24:30 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:24:31 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:24:46 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:24:47 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:24:49 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:24:49 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:26:10 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:26:11 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:26:16 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:27:04 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:27:04 Europe/Berlin] inicioModelo::validarLogin => Validacion Efectuada
+[01-Jun-2021 16:27:06 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:27:09 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:27:10 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:27:24 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:27:24 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:43:32 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:43:33 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:43:39 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:43:39 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:44:55 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:44:55 Europe/Berlin] inicioModelo::validarLogin => Validacion Efectuada
+[01-Jun-2021 16:45:17 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:45:18 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:45:33 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:45:45 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:45:45 Europe/Berlin] inicioModelo::validarLogin => Validacion Efectuada
+[01-Jun-2021 16:45:50 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:45:50 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:45:52 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:45:52 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:46:40 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:46:47 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:46:47 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:47:00 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:47:01 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:47:09 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:47:09 Europe/Berlin] 1
+[01-Jun-2021 16:47:12 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:47:13 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:47:19 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:47:26 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:47:27 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:47:30 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:47:30 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:47:34 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:47:34 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:47:42 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:47:42 Europe/Berlin] usuarioModelo::insertarUsuarios-> Funcion Iniciada
+[01-Jun-2021 16:47:43 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:47:44 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:47:47 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:47:49 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:47:49 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:48:06 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:48:09 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:48:11 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:48:27 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:48:34 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:48:34 Europe/Berlin] inicioModelo::validarLogin => Validacion Efectuada
+[01-Jun-2021 16:48:36 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:48:49 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:48:49 Europe/Berlin] 3
+[01-Jun-2021 16:49:17 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:49:22 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:49:22 Europe/Berlin] VLADIMIR
+[01-Jun-2021 16:49:35 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:49:40 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:49:40 Europe/Berlin] RRHH
+[01-Jun-2021 16:49:40 Europe/Berlin] PHP Warning:  Undefined array key "EMPLEADO" in C:\xampp\htdocs\sistema\controllers\informe.php on line 130
+[01-Jun-2021 16:49:40 Europe/Berlin] PHP Stack trace:
+[01-Jun-2021 16:49:40 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\sistema\index.php:0
+[01-Jun-2021 16:49:40 Europe/Berlin] PHP   2. App->__construct() C:\xampp\htdocs\sistema\index.php:19
+[01-Jun-2021 16:49:40 Europe/Berlin] PHP   3. Informe->pdfTareasAreas() C:\xampp\htdocs\sistema\core\app.php:30
+[01-Jun-2021 16:49:40 Europe/Berlin] PHP Warning:  Undefined array key "EMPLEADO" in C:\xampp\htdocs\sistema\controllers\informe.php on line 130
+[01-Jun-2021 16:49:40 Europe/Berlin] PHP Stack trace:
+[01-Jun-2021 16:49:40 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\sistema\index.php:0
+[01-Jun-2021 16:49:40 Europe/Berlin] PHP   2. App->__construct() C:\xampp\htdocs\sistema\index.php:19
+[01-Jun-2021 16:49:40 Europe/Berlin] PHP   3. Informe->pdfTareasAreas() C:\xampp\htdocs\sistema\core\app.php:30
+[01-Jun-2021 16:49:54 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:49:55 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:49:56 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:49:57 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:50:01 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:50:15 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:50:16 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:50:17 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:50:24 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:50:24 Europe/Berlin] inicioModelo::validarLogin => Validacion Efectuada
+[01-Jun-2021 16:50:26 Europe/Berlin] Inicio de Aplicacion WEB
+[01-Jun-2021 16:50:27 Europe/Berlin] Inicio de Aplicacion WEB
